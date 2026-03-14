@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kitsumori, Mario Mori
 - 👀 I’m interested in security and testing
-- 🌱 I know how to develop and script in Python, Docker, NodeJS, VueJS, Groovy, Bash
+- 🌱 I know how to develop and script in Python, Docker, Nodejs, Vuejs, Nextjs, Bash
+- How to create playwright tests with Playwright MCP
 - 📫 How to reach me at mario_mori@hotmail.com and AlopexMM#0983 (discord)
 
 Application repos:
