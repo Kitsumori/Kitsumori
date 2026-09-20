@@ -66,7 +66,7 @@ Internal tools and operational applications developed for technical and business
 ### Pokemon Creator
 Pokemon generator and management application.
 
-🔗 https://github.com/Kitsumori/pokemon-creator
+🔗 https://github.com/Kitsumori/pokemon-project
 
 ---
 
