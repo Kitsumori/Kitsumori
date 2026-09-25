@@ -68,14 +68,7 @@ Pokemon generator and management application.
 
 🔗 https://github.com/Kitsumori/pokemon-project
 
----
-
-## Python Packages
-
-### Fiscal Tools
-Utilities and helpers for fiscal and business processes.
-
-🔗 https://github.com/Kitsumori/fiscal-tools
+<kbd>Nextjs</kbd> <kbd>FastAPI</kbd> 
 
 ---
 
@@ -86,6 +79,9 @@ End-to-end, API and automation testing examples using Python.
 
 🔗 https://github.com/Kitsumori/WebTestingExamples
 
+### Javascript exercises
+
+> [js-functional-toolkit](https://github.com/Kitsumori/js-functional-toolkit)
 ---
 
 # Current Learning Roadmap
@@ -102,7 +98,6 @@ Building a professional TypeScript and Node.js portfolio focused on:
 
 Upcoming repositories:
 
-- js-functional-toolkit
 - typesafe-event-bus
 - data-structures-ts
 - algorithms-playground
