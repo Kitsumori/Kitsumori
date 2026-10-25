@@ -1,119 +1,278 @@
 # Hi, I'm Mario Mori (@Kitsumori)
 
-Senior Software Engineer, QA Automation Architect and Technical Lead based in Buenos Aires, Argentina.
+Senior Software Engineer, QA Automation Architect, and Technical Lead based in Buenos Aires, Argentina.
 
-I build scalable software, testing platforms, developer tools and automation frameworks using TypeScript, Node.js and Python.
+With over 10 years of experience in software engineering, test automation, and technical leadership, I'm currently focused on expanding my expertise in Backend Development using .NET and cloud-native solutions on Microsoft Azure.
 
-## 🚀 About Me
+This profile documents my journey from .NET Backend Development fundamentals to building AI-powered applications on Azure, culminating in the AI-200 certification path.
 
-- 🔭 Currently focused on TypeScript, Node.js and Software Architecture
-- 🤖 Building AI-powered testing and automation solutions
-- 🧪 10+ years of experience in QA Automation, Software Testing and Engineering
-- 🌱 Continuously improving my knowledge in algorithms, distributed systems and backend development
-- 👥 Technical leadership, mentoring and process optimization
-- ⚡ Passionate about clean code, system design and developer experience
+---
 
-## 🛠️ Tech Stack
+# 🚀 Current Learning Journey
+
+I'm following a structured roadmap designed to strengthen my backend engineering skills while building production-oriented projects that demonstrate real-world experience.
+
+My main objective is to combine:
+
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- Clean Architecture
+- Cloud Computing
+- Azure AI Services
+- Azure OpenAI
+
+into a professional portfolio capable of supporting modern, scalable, and intelligent applications.
+
+---
+
+# 📈 Roadmap Progress
+
+## Phase 1 — C# Foundations
+
+**Status:** 🔄 In Progress
+
+### Learning Topics
+
+- Object-Oriented Programming
+- Interfaces
+- Collections
+- LINQ
+- Generics
+- Delegates & Events
+- Async/Await
+- Exception Handling
+
+### Projects
+
+✅ [Banking System](https://github.com/Kitsumori/BankAccount)
+
+✅ [Inventory Management](https://github.com/Kitsumori/InventoryManagement)
+
+✅ [Product Catalog](https://github.com/Kitsumori/InventoryManagement)
+
+---
+
+## Phase 2 — ASP.NET Core
+
+**Status:** ⏳ Planned
+
+### Learning Topics
+
+- Web APIs
+- Controllers
+- Routing
+- Middleware
+- Dependency Injection
+- Configuration
+- Logging
+
+### Project
+
+Books Management API
+
+---
+
+## Phase 3 — Entity Framework Core
+
+**Status:** ⏳ Planned
+
+### Learning Topics
+
+- DbContext
+- DbSet
+- Migrations
+- Relationships
+- LINQ Queries
+
+### Project
+
+Expanding the Books API with:
+
+- Authors
+- Categories
+- Publishers
+
+---
+
+## Phase 4 — SQL Server
+
+**Status:** ⏳ Planned
+
+### Learning Topics
+
+- SQL Queries
+- Joins
+- Aggregations
+- Indexing
+- Query Optimization
+
+---
+
+## Phase 5 — Security
+
+**Status:** ⏳ Planned
+
+### Learning Topics
+
+- JWT Authentication
+- Claims
+- Authorization
+- Roles & Permissions
+
+---
+
+## Phase 6 — Clean Architecture
+
+**Status:** ⏳ Planned
+
+### Learning Topics
+
+- Domain Layer
+- Application Layer
+- Infrastructure Layer
+- API Layer
+- SOLID Principles
+- Repositories
+- Use Cases
+
+---
+
+# 🌎 Portfolio Project
+
+## Market Price Collector
+
+A backend platform designed to collect, store, process, and analyze market pricing information.
+
+The project evolves through multiple releases, each one introducing new technical challenges and technologies.
+
+### V1 — Price Collector Core
+
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- Swagger
+- Historical Price Tracking
+
+### V2 — Import & Automation
+
+- CSV Import
+- Excel Import
+- Validation
+- Logging
+- Background Services
+
+### V3 — Analytics Engine
+
+- Price Comparison
+- Historical Trends
+- Business Metrics
+- Advanced Queries
+- Reporting APIs
+
+### V4 — Azure AI Platform
+
+- Docker
+- GitHub Actions
+- Azure Deployment
+- Azure AI Search
+- Azure OpenAI
+- Product Classification
+- Price Anomaly Detection
+- AI-Assisted Reports
+
+---
+
+# ☁️ Azure & AI Journey
+
+My Azure learning path is focused on building and deploying intelligent backend systems rather than pursuing a traditional cloud administration track.
+
+Current areas of study include:
+
+- Azure App Service
+- Azure SQL
+- Azure Monitoring
+- Azure AI Services
+- Azure AI Foundry
+- Azure OpenAI
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Governance & Security
+
+---
+
+# 🎯 Certification Goal
+
+## AI-200 — Implement Azure AI Solutions
+
+My long-term objective is to achieve the AI-200 certification while demonstrating practical experience through real projects.
+
+Key focus areas:
+
+- Azure AI Foundry
+- Azure OpenAI Service
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Security & Governance
+- AI Integration within .NET Applications
+- Monitoring and Optimization of AI Solutions
+
+**Status:** 🔄 In Progress
+
+---
+
+# 🛠️ Technical Stack
 
 ### Languages
+
+- C#
 - TypeScript
 - JavaScript
 - Python
-- C#
 
 ### Backend
+
+- ASP.NET Core
+- .NET
 - Node.js
 - FastAPI
-- Flask
-- .NET Core
 
 ### Frontend
+
 - React
 - Next.js
 - Vue.js
 
-### Testing & Automation
-- Playwright
-- Selenium
-- Postman
-- API Testing
-- E2E Testing
-- AI Assisted Testing
-
-### DevOps & Infrastructure
-- Docker
-- Azure Pipelines
-- GitLab CI/CD
-- GitHub Actions
-
 ### Databases
+
+- SQL Server
 - PostgreSQL
 - MongoDB
 - MySQL
-- SQL Server
 
----
+### Testing & Quality
 
-# Featured Projects
+- Playwright
+- Selenium
+- API Testing
+- E2E Testing
+- AI-Assisted Testing
 
-## Applications
+### DevOps & Cloud
 
-### Scanntech Operaciones
-Internal tools and operational applications developed for technical and business teams.
-
-🔗 https://github.com/Kitsumori/scanntech-apps
-
-### Pokemon Creator
-Pokemon generator and management application.
-
-🔗 https://github.com/Kitsumori/pokemon-project
-
-<kbd>Nextjs</kbd> <kbd>FastAPI</kbd> 
-
----
-
-## Testing & Automation
-
-### Web Testing Examples
-End-to-end, API and automation testing examples using Python.
-
-🔗 https://github.com/Kitsumori/WebTestingExamples
-
-### Javascript exercises
-
-> [js-functional-toolkit](https://github.com/Kitsumori/js-functional-toolkit)
----
-
-# Current Learning Roadmap
-
-Building a professional TypeScript and Node.js portfolio focused on:
-
-- Functional Programming
-- Advanced TypeScript
-- Data Structures & Algorithms
-- Node.js Internals
-- Backend Architecture
-- Distributed Systems
-- AI Testing Platforms
-
-Upcoming repositories:
-
-- typesafe-event-bus
-- data-structures-ts
-- algorithms-playground
-- file-processing-engine
-- task-management-api
-- distributed-job-queue
-- ai-testing-platform
+- Docker
+- GitHub Actions
+- Azure
+- Azure Pipelines
+- GitLab CI/CD
 
 ---
 
 ## 📫 Contact
 
 - Email: mario_mori@hotmail.com
-- GitHub: https://github.com/Kitsumori
-- Discord: AlopexMM#0983
+- Webpage: https://kitsumori.dev
 
 ---
 
-> "Automation is not about replacing people. It's about amplifying their ability to solve meaningful problems."
+> Building a portfolio isn't just about showcasing code—it's about demonstrating continuous learning, engineering discipline, and the ability to turn ideas into production-ready solutions.
