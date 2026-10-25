@@ -30,7 +30,7 @@ into a professional portfolio capable of supporting modern, scalable, and intell
 
 ## Phase 1 — C# Foundations
 
-**Status:** 🔄 In Progress
+**Status:** ✅ Finished
 
 ### Learning Topics
 
@@ -55,7 +55,7 @@ into a professional portfolio capable of supporting modern, scalable, and intell
 
 ## Phase 2 — ASP.NET Core
 
-**Status:** ⏳ Planned
+**Status:** 🔄 In Progress
 
 ### Learning Topics
 
